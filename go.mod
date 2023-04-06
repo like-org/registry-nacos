@@ -1,4 +1,4 @@
-module github.com/kitex-contrib/registry-nacos
+module github.com/like-org/registry-nacos
 
 go 1.16
 
