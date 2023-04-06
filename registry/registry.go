@@ -19,6 +19,7 @@ import (
 	"fmt"
 	"net"
 	"strconv"
+	"os"
 
 	"github.com/cloudwego/kitex/pkg/registry"
 	"github.com/kitex-contrib/registry-nacos/nacos"
